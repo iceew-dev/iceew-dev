@@ -8,7 +8,7 @@
 
 ---
 
-Me chamo **Caio Victor**, atualmente tenho **23 anos**, sou natural do **Ceará** e estou cursando **Ciência da Computação** na **Universidade de Fortaleza**.  
+Me chamo **Caio Victor**, atualmente tenho **24 anos**, sou natural do **Ceará** e estou cursando **Ciência da Computação** na **Universidade de Fortaleza**.  
 Sou apaixonado por tecnologia e estou empolgado para oportunidades de ajudar pessoas através do desenvolvimento de softwares.
 
 ---
